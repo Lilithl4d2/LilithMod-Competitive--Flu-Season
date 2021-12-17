@@ -1,1 +1,1 @@
-# LilithMod-Competitive
+# Flu Season VS Competitive
