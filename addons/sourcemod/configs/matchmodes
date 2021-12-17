@@ -1,0 +1,14 @@
+"MatchModes"
+{
+   "Flu Season VS Configs"
+	  {
+		  "lilithmod"
+		   {
+			"name" "lilithmod 1.5"
+		   }
+	   "lilithmodold"
+		   {
+			"name" "lilithmod 1.0"
+		   }
+    
+  }
