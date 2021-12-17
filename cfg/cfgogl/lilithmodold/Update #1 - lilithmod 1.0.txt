@@ -1,0 +1,23 @@
+Update for lilithmod 1.0/ Flu Season Competitive VS [4v4]
+
+1. Special Infected - 2 Boomers, 3 Spitters, and 1 Tank [6000 HP]
+
+2. Boomers can bitch slap like tanks and deals 10 dmg depending where you land after being bitch-slapped.  // When Boomers pop the survivors will take dmg depending on the radius of the explosion. [Ex. The Inner Radius does 20 dmg, and the Outer Radius does 10 dmg]
+
+3. When you shove a boomer the boomer can still vomit. 
+
+4. The Survivors will have Tier 1 Guns & Pills // 2 pills will be outside of campaign doors and they're placed randomly  
+
+5. The Spitter deals 9x-dmg if you sit in the spit // Spitters deals 9 dmg if they scratch you
+
+6. You cannot gain points if you run past the tank as all point are paused until you kill the tank.
+
+7. No Witches, Smokers, Jockeys, Hunters, and Chargers
+
+8. Mega Horde Mobs will have 55 zombies plus the 30 common that are in every map.
+
+9. Boomer bitch-slap cooldown is 9 seconds.
+
+10. When shooting a alarmed car it will alert the horde and you will be vomited on as a punishment.
+
+11. No team nudge is on so that survivors can't push each other off the level or off a bridge.
