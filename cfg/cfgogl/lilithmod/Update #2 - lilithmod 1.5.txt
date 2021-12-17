@@ -1,0 +1,56 @@
+Update for lilithmod 1.5/ Flu Season Competitive VS [4v4] [Config Info]
+
+
+1. Special Infected - 2 Boomers, 3 Spitters, and 1 Tank [6000 HP]
+
+
+
+2. Boomers can bitch slap like tanks and deals 10 dmg depending where you land after being bitch-slapped.  // When Boomers pop the survivors will take dmg depending on the radius of the explosion. [Ex. The Inner Radius does 20 dmg, and the Outer Radius does 10 dmg]
+
+
+
+3. When you shove a boomer it can still vomit on you.
+
+
+
+4. The Survivors will have Tier 1 Guns & Pills // 2 pills will be outside of campaign doors and they're placed randomly. 
+
+
+
+5. The Spitter deals 6x dmg if you sit in the spit // Spitters deals 6 dmg if they scratch you
+
+
+
+6. You cannot gain points if you run past the tank as all points are paused until you kill the tank.
+
+
+
+7. No Witches, Smokers, Jockeys, Hunters, and Chargers
+
+
+
+8. Mega Horde Mobs will have 55 zombies plus the 30 common that are in every map.
+
+
+
+9. Boomer bitch-slap cooldown is 7 seconds.
+
+
+
+10. When shooting a alarmed car it will alert the horde and you will be vomited on as a punishment [Its best to avoid alarmed cars].
+
+
+
+11. No team nudge is on so that survivors can't push each other off the level or off a bridge.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+Lilithmod 1.0 will be available for the servers [below this]
+
+LilithPug #1 {NY} - connect 192.223.31.240:27025
+
+LilithPug #2 {NY} - connect 192.223.31.240:27026 
+
+I'm willing to hear feedback from you guys :D If you guys have any questions or want any changes/updates just dm me on discord and we can happily vote to see what you guys want to see in the next update of lilithmod.
