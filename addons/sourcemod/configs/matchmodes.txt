@@ -4,7 +4,7 @@
 	  {
 		  "lilithmod"
 		   {
-			"name" "lilithmod 1.5"
+			"name" "lilithmod 1.5.1"
 		   }
 	   "lilithmodold"
 		   {
