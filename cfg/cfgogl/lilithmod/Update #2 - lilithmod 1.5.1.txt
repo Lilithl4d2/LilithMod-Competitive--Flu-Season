@@ -1,7 +1,7 @@
-Update for lilithmod 1.5/ Flu Season Competitive VS [4v4] [Config Info]
+Update for lilithmod 1.5.1/ Flu Season Competitive VS [4v4] [Config Info]
 
 
-1. Special Infected - 2 Boomers, 3 Spitters, and 1 Tank [6000 HP]
+1. Special Infected - 2 Boomers, 3 Spitters, and 1 Tank [7012 HP]
 
 
 
@@ -44,13 +44,12 @@ Update for lilithmod 1.5/ Flu Season Competitive VS [4v4] [Config Info]
 11. No team nudge is on so that survivors can't push each other off the level or off a bridge.
 
 
+12. You can now pass tanks with the command !pass instead of having tanks go AI. First type !tankhud while you are a tank and the menu should go away. Then type !pass and another menu should pop up and you can choose who wants to be tank. Make sure that you are on your 2nd frustration when passing the tank.
 
 
----------------------------------------------------------------------------------------------------------------------------------
-Lilithmod 1.0 will be available for the servers [below this]
 
-LilithPug #1 {NY} - connect 192.223.31.240:27025
+13. You can crawl when incapped but its really slow :)
 
-LilithPug #2 {NY} - connect 192.223.31.240:27026 
 
-I'm willing to hear feedback from you guys :D If you guys have any questions or want any changes/updates just dm me on discord and we can happily vote to see what you guys want to see in the next update of lilithmod.
+
+14. Spitters have a shoving ability when you scratch at a survivor.
